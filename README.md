@@ -4,7 +4,7 @@
 
 <p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="jokes-card"/> </p>
 
-<p align="left"> <a href="https://twitter.com/anjali_vaish" target="blank"><img src="https://img.shields.io/twitter/follow/anjali_vaish?logo=twitter&style=for-the-badge" alt="twitter-follow-badge" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anjalivaishh" target="blank"><img src="https://img.shields.io/twitter/follow/anjali_vaish?logo=twitter&style=for-the-badge" alt="twitter-follow-badge" /></a> </p>
 
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=anjali-vaish&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="github-trophies" /> </p>
 
