@@ -1,5 +1,3 @@
-Anjali Vaish
-
 <img height="auto" src="https://komarev.com/ghpvc/?username=anjali-vaish&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-counter" />
 <p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api?theme=merko" alt="jokes-card"/> </p>
 <p align="left"> <a href="https://twitter.com/anjalivaishh" target="blank"><img src="https://img.shields.io/twitter/follow/anjalivaishh?logo=twitter&style=for-the-badge&animation=spin" alt="twitter-follow-badge" /></a> </p>
@@ -29,9 +27,11 @@ About Me
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="40" height="40" style="animation: spin 4s linear infinite;"/> </a>
 </p>
 Stats
-<img align="left" height="auto" width="300" src="https://github-readme-stats.vercel.app/api?username=anjali-vaish&show_icons=true&theme=merko&locale=en&hide_border=false" alt="github-stats" />
-<img align="left" height="auto" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-vaish&theme=merko&hide_border=false&locale=en" alt="streak-stats" />
-<img align="left" height="auto" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-vaish&theme=merko&hide_border=false" alt="top-langs" />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img height="auto" width="300" src="https://github-readme-stats.vercel.app/api?username=anjali-vaish&show_icons=true&theme=merko&locale=en&hide_border=false" alt="github-stats" />
+  <img height="auto" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-vaish&theme=merko&hide_border=false&locale=en" alt="streak-stats" />
+  <img height="auto" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-vaish&theme=merko&hide_border=false" alt="top-langs" />
+</div>
 <style>
 @keyframes spin {
   0% { transform: rotate(0deg); }
