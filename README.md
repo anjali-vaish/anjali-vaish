@@ -40,6 +40,6 @@
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-vaish&theme=merko&hide_border=false" alt="top-langs" />
 
-
+[![An image of @anjalivaish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anjalivaish)](https://holopin.io/@anjalivaish)
 
 
